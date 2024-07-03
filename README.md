@@ -1,1 +1,2 @@
-README – wersja 3: Master
+README – wersja 3: cwiczenie8
+Dodane na gałęzi cwiczenie8
